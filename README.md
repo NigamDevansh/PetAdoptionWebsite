@@ -1,6 +1,7 @@
 
 # Pet Adoption Website
  
+ A ReactJs project bundled via Vite.
 
 ### Run Locally
 
